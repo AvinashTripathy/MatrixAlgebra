@@ -1,0 +1,4 @@
+Rank of a Matrix:
+The rank of a matrix is defined as (a) the maximum number of linearly independent column vectors in the matrix or (b) the maximum number of linearly independent row vectors in the matrix. Both definitions are equivalent. For an r x c matrix, If r is less than c, then the maximum rank of the matrix is r.
+
+https://www.quora.com/What-is-rank-of-a-matrix-in-laymans-terms/answer/Suyash-Dewangan-5
